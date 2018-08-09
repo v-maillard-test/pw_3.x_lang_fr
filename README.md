@@ -3,6 +3,7 @@ Based on FRENCH LANGUAGE PACK (FR-FR) (http://modules.processwire.com/modules/fr
 Support for ProcessWire 3.x
 
 ## Traducteurs
+- [Vincent Maillard](https://gitlab.com/vmaillard)
 - [Pierre-Luc Auclair](https://github.com/plauclair)
 - [UnderK](https://github.com/underk)
 - Guillaume
